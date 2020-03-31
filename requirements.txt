@@ -4,7 +4,7 @@ angles==1.9.11
 astor==0.7.1
 backcall==0.1.0
 base-local-planner==1.16.2
-bleach==3.0.2
+bleach==3.1.4
 bondpy==1.8.3
 camera-calibration==1.12.23
 camera-calibration-parsers==1.11.13
