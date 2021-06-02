@@ -186,7 +186,7 @@ traitlets==4.3.2
 turtlebot3-example==1.2.0
 turtlebot3-teleop==1.2.0
 urdfdom-py==0.4.0
-urllib3==1.25.8
+urllib3==1.26.5
 watchdog==0.10.2
 wcwidth==0.1.7
 webencodings==0.5.1
