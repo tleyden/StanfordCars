@@ -70,7 +70,7 @@ mistune==0.8.4
 nbconvert==5.4.0
 nbformat==4.4.0
 notebook==5.7.3
-numpy==1.17.4
+numpy==1.22.0
 nvidia-ml-py3==7.352.0
 opencv-python==4.0.0.21
 pandas==0.25.3
