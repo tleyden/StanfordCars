@@ -9,7 +9,7 @@ bondpy==1.8.3
 camera-calibration==1.12.23
 camera-calibration-parsers==1.11.13
 catkin==0.7.17
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 configparser==4.0.2
